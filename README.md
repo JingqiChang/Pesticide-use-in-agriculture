@@ -1,0 +1,13 @@
+# Pesticide-use-in-agriculture
+Analyze by python (datasets from Kaggle)
+![image](https://github.com/JingqiChang/Pesticide-use-in-agriculture/blob/main/readme-screenshot/Screen%20Shot%202022-02-03%20at%2012.08.49%20AM.png)
+![image](https://github.com/JingqiChang/Pesticide-use-in-agriculture/blob/main/readme-screenshot/Screen%20Shot%202022-02-03%20at%2012.09.13%20AM.png)
+![image](https://github.com/JingqiChang/Pesticide-use-in-agriculture/blob/main/readme-screenshot/Screen%20Shot%202022-02-03%20at%2012.09.35%20AM.png)
+![image](https://github.com/JingqiChang/Pesticide-use-in-agriculture/blob/main/readme-screenshot/Screen%20Shot%202022-02-03%20at%2012.09.56%20AM.png)
+![image](https://github.com/JingqiChang/Pesticide-use-in-agriculture/blob/main/readme-screenshot/Screen%20Shot%202022-02-03%20at%2012.10.16%20AM.png)
+![image](https://github.com/JingqiChang/Pesticide-use-in-agriculture/blob/main/readme-screenshot/Screen%20Shot%202022-02-03%20at%2012.10.30%20AM.png)
+![image](https://github.com/JingqiChang/Pesticide-use-in-agriculture/blob/main/readme-screenshot/Screen%20Shot%202022-02-03%20at%2012.12.04%20AM.png)
+![image](https://github.com/JingqiChang/Pesticide-use-in-agriculture/blob/main/readme-screenshot/Screen%20Shot%202022-02-03%20at%2012.12.45%20AM.png)
+![image](https://github.com/JingqiChang/Pesticide-use-in-agriculture/blob/main/readme-screenshot/Screen%20Shot%202022-02-03%20at%2012.13.16%20AM.png)
+![image](https://github.com/JingqiChang/Pesticide-use-in-agriculture/blob/main/readme-screenshot/Screen%20Shot%202022-02-03%20at%2012.13.55%20AM.png)
+![image](https://github.com/JingqiChang/Pesticide-use-in-agriculture/blob/main/readme-screenshot/Screen%20Shot%202022-02-03%20at%2012.14.14%20AM.png)
